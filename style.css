@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, Helvetica, Arial;
+    background-color: rgb(90, 237, 164);
+    font-size: 1.25em;
+}
+
+h1,
+h3 {
+    text-decoration: underline;
+}
+
+.image {
+    border-radius: 5em;
+}
+
+.link {
+    color: rgb(0, 0, 255);
+}
+.link:hover {
+    color: rgb(255, 0, 0);
+}
